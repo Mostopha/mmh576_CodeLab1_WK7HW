@@ -1,9 +1,8 @@
-
-
-
------P----------------------------------------------------O---
-xxxxxxxxxxxxxxxxxxx------------------xxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxx---------E--------xxxxxxxxxxxxxxxxxxxxxxxxx
--------------------xxxxxxxxxxxxxxxxx--------------------------
-xxxxxxxxxxxxxxxxxxx-----------------xxxxxxxxxxxxxxxxxxxxxxxxxx
------------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-----------------
+P---------------------------O
+xxxx----------------------xxx
+-----------E-----------------
+------------------E----------
+----xxx---------------xxx----
+-----------------------------
+-----------------------------
+--------xxxxxxxxxx-----------

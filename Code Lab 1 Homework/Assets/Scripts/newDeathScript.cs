@@ -143,6 +143,7 @@ public class newDeathScript : MonoBehaviour {
             player1Score+=10;
             Destroy(collider.gameObject);
 
+            LevelLoader.levelNum++;
             SceneManager.LoadScene("VacationHomework2");
         }
 
@@ -151,6 +152,7 @@ public class newDeathScript : MonoBehaviour {
             player2Score+=10;
             Destroy(collider.gameObject);
 
+            LevelLoader.levelNum++;
             SceneManager.LoadScene("VacationHomework2");
         }
        

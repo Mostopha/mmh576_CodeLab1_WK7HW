@@ -140,7 +140,7 @@ public class newDeathScript : MonoBehaviour {
     {
         if (collider.gameObject.tag == "Player1")
         {
-            player1Score+=10;
+            player2Score+=10;
             Destroy(collider.gameObject);
 
             LevelLoader.levelNum++;
@@ -149,7 +149,7 @@ public class newDeathScript : MonoBehaviour {
 
         else if(collider.gameObject.tag == "Player2")
         {
-            player2Score+=10;
+            player1Score+=10;
             Destroy(collider.gameObject);
 
             LevelLoader.levelNum++;

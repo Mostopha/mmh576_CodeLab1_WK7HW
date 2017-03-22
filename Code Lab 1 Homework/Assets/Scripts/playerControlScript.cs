@@ -84,7 +84,7 @@ public class playerControlScript : MonoBehaviour
         }
         
 
-        Debug.Log("Dragon");
+      
     }
 
    
